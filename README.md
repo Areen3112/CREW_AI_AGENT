@@ -120,7 +120,7 @@ AI-Blog-Generator/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Blog-Generator.git
+git clone https://github.com/Areen3112/CREW_AI_AGENT.git
 ```
 
 Move into the project:
